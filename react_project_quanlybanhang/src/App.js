@@ -14,7 +14,7 @@ class App extends Component {
             isDisplayForm: false,
             taskEdit: null,
             keyword: "",
-            a: ""
+            a: false
         }
 
     }
