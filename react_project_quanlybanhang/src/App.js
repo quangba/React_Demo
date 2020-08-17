@@ -13,7 +13,8 @@ class App extends Component {
             tasks: [],   //id: unique, name, status
             isDisplayForm: false,
             taskEdit: null,
-            keyword: ""
+            keyword: "",
+            
         }
 
     }
